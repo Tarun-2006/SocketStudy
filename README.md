@@ -1,4 +1,4 @@
-# EX.NO.1A - 			STUDY OF SOCKET PEOGRAMMING
+# EX.NO.1A - 			STUDY OF SOCKET PROGRAMMING
 
 ## Aim: 
 To perform a study on Socket Programming.
